@@ -4,7 +4,7 @@
 
 This project is divided into two parts:
 
-1. **Entropy Analysis** — Measure and analyze the entropy of n-grams (n = 0 to 10) from cleaned Albanian and English text.
+1. **Entropy Analysis** — Measure and analyze the entropy of n-grams (n = 0 to 10) from cleaned Albanian.
 2. **Commit Owner Identification** — Given a long "weld" string and an employee list, determine the sequence of employee IDs that most likely generated the string.
 
 ---
