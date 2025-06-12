@@ -93,7 +93,7 @@ python commit_owners.py employees.txt 123456910
 
 ---
 
-## 🚀 Example Output
+## Example Output
 
 ```bash
 # Part 1
@@ -103,7 +103,7 @@ Total n-grams: 1,042,200
 Unique n-grams: 734
 ```
 
-# Part 2
+
 ```
 Employees file: employees.txt
 Weld string: 123456910
